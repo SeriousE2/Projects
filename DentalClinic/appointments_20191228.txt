@@ -1,0 +1,29 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+1349,O'Dunneen,DENTIST,08:30,09:30,175.00,followup on pre-decay
+1033,O'Dunneen,DENTIST,09:30,10:00,87.50,Some receding of gums.
+1669,O'Dunneen,DENTIST,10:00,11:00,175.00,Irritation around molars.
+1439,O'Dunneen,DENTIST,11:00,12:30,262.50,gingivitis
+446,Eveque,DENTIST,08:30,11:15,508.75,Some receding of gums.
+1549,Dearn,DENTIST,08:30,11:00,500.00,Crown required.
+815,Tebbet,HYGIENIST,08:30,09:00,42.50,
+1841,Tebbet,HYGIENIST,09:00,10:30,127.50,Difficult patient
+437,Tebbet,HYGIENIST,10:30,12:15,148.75,
+616,Robins,HYGIENIST,08:30,09:45,106.25,Difficult patient
+635,Robins,HYGIENIST,09:45,11:30,148.75,possible decay on 12E
+1858,Curado,HYGIENIST,08:30,09:30,85.00,
+112,Curado,HYGIENIST,09:30,11:45,191.25,possible decay on 12E
+1709,Driver,HYGIENIST,08:30,09:45,125.00,
+663,Driver,HYGIENIST,09:45,10:45,100.00,
+43,Driver,HYGIENIST,10:45,11:45,100.00,Inflammation
+1218,Setter,HYGIENIST,08:30,09:30,95.00,declined flouride
+980,Setter,HYGIENIST,09:30,11:45,213.75,possible decay on 12E
+447,Withull,HYGIENIST,08:30,10:45,225.00,declined flouride
+221,Withull,HYGIENIST,10:45,11:30,75.00,coffee drinker
+1326,Withull,HYGIENIST,11:30,12:00,50.00,possible decay on 12E
+189,Stebbing,ORTHODONTIST,08:30,09:15,183.75,
+1445,Stebbing,ORTHODONTIST,09:15,09:30,61.25,
+174,Stebbing,ORTHODONTIST,09:30,10:15,183.75,slowing treatment to reduce discomfort
+782,Stebbing,ORTHODONTIST,10:15,10:30,61.25,
+854,Stebbing,ORTHODONTIST,10:30,11:15,183.75,
+1593,Stebbing,ORTHODONTIST,11:15,11:45,122.50,under-bite
+628,Stebbing,ORTHODONTIST,11:45,12:15,122.50,

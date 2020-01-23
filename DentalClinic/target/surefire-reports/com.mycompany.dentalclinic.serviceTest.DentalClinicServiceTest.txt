@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.dentalclinic.serviceTest.DentalClinicServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! - in com.mycompany.dentalclinic.serviceTest.DentalClinicServiceTest
+testAppointmentAlreadyExists  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.mycompany.dentalclinic.serviceTest.DentalClinicServiceTest.<init>(DentalClinicServiceTest.java:30)
+
+testFindByProLastNameAndDate  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.mycompany.dentalclinic.serviceTest.DentalClinicServiceTest.<init>(DentalClinicServiceTest.java:30)
+
+testCreateNewAppointment  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.mycompany.dentalclinic.serviceTest.DentalClinicServiceTest.<init>(DentalClinicServiceTest.java:30)
+
+testCalculateCost  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.mycompany.dentalclinic.serviceTest.DentalClinicServiceTest.<init>(DentalClinicServiceTest.java:30)
+

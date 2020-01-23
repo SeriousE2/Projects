@@ -1,0 +1,7 @@
+Vending,Machine,Inventory
+1::Ginger ale::2.50::2
+2::Snickers::1.55::4
+3::Rice Crispy Treats::1.85::1
+4::Cheetos::2.60::6
+5::Butterfinger::1.50::6
+6::Twix::1.90::3

@@ -1,0 +1,73 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+571,O'Dunneen,DENTIST,07:30,10:00,437.50,followup on pre-decay
+1843,O'Dunneen,DENTIST,10:00,10:30,87.50,Irritation around molars.
+1407,O'Dunneen,DENTIST,10:30,11:00,87.50,
+1955,O'Dunneen,DENTIST,13:00,15:30,437.50,Irritation around molars.
+574,O'Dunneen,DENTIST,15:30,16:45,218.75,recommend wisdom tooth extraction
+193,Eveque,DENTIST,07:30,08:45,231.25,recommend wisdom tooth extraction
+821,Eveque,DENTIST,08:45,11:30,508.75,followup on pre-decay
+1592,Eveque,DENTIST,13:00,16:00,555.00,Irritation around molars.
+1065,Eveque,DENTIST,16:00,17:30,277.50,
+272,Dearn,DENTIST,07:30,10:30,600.00,
+741,Dearn,DENTIST,13:00,15:15,450.00,followup on pre-decay
+1541,Dearn,DENTIST,15:15,17:45,500.00,Some receding of gums.
+739,Tebbet,HYGIENIST,07:30,08:45,106.25,
+795,Tebbet,HYGIENIST,08:45,10:30,148.75,
+1637,Tebbet,HYGIENIST,10:30,12:00,127.50,wiggler
+1672,Tebbet,HYGIENIST,12:00,12:30,42.50,
+609,Tebbet,HYGIENIST,13:00,14:00,85.00,declined flouride
+1226,Tebbet,HYGIENIST,14:00,14:30,42.50,coffee drinker
+1965,Tebbet,HYGIENIST,14:30,16:00,127.50,wiggler
+10,Robins,HYGIENIST,07:30,08:15,63.75,
+497,Robins,HYGIENIST,08:15,09:15,85.00,coffee drinker
+74,Robins,HYGIENIST,09:15,10:30,106.25,
+991,Robins,HYGIENIST,10:30,12:30,170.00,
+998,Robins,HYGIENIST,13:00,14:00,85.00,Inflammation
+373,Robins,HYGIENIST,14:00,15:30,127.50,wiggler
+1580,Robins,HYGIENIST,15:30,17:00,127.50,Inflammation
+1007,Robins,HYGIENIST,17:00,17:30,42.50,worried about discoloration
+132,Robins,HYGIENIST,17:30,18:00,42.50,worried about discoloration
+321,Curado,HYGIENIST,07:30,09:00,127.50,coffee drinker
+828,Curado,HYGIENIST,09:00,11:00,170.00,coffee drinker
+552,Curado,HYGIENIST,11:00,12:15,106.25,
+1418,Curado,HYGIENIST,13:00,14:30,127.50,possible decay on 12E
+568,Curado,HYGIENIST,14:30,15:30,85.00,declined flouride
+842,Curado,HYGIENIST,15:30,17:15,148.75,wiggler
+1760,Driver,HYGIENIST,07:30,08:45,125.00,Difficult patient
+1883,Driver,HYGIENIST,08:45,09:30,75.00,worried about discoloration
+752,Driver,HYGIENIST,09:30,10:00,50.00,declined flouride
+615,Driver,HYGIENIST,10:00,11:45,175.00,coffee drinker
+614,Driver,HYGIENIST,11:45,12:15,50.00,declined flouride
+634,Driver,HYGIENIST,13:00,14:15,125.00,wiggler
+1985,Driver,HYGIENIST,14:15,14:45,50.00,
+1613,Driver,HYGIENIST,14:45,16:30,175.00,possible decay on 12E
+841,Setter,HYGIENIST,07:30,08:30,95.00,
+483,Setter,HYGIENIST,08:30,10:00,142.50,wiggler
+1141,Setter,HYGIENIST,10:00,10:45,71.25,Difficult patient
+5,Setter,HYGIENIST,10:45,11:45,95.00,worried about discoloration
+1174,Setter,HYGIENIST,13:00,13:45,71.25,wiggler
+1606,Setter,HYGIENIST,13:45,16:00,213.75,
+44,Setter,HYGIENIST,16:00,16:30,47.50,wiggler
+972,Withull,HYGIENIST,07:30,09:00,150.00,
+1195,Withull,HYGIENIST,09:00,10:15,125.00,Difficult patient
+940,Withull,HYGIENIST,10:15,12:15,200.00,possible decay on 12E
+666,Withull,HYGIENIST,13:00,14:00,100.00,wiggler
+67,Withull,HYGIENIST,14:00,16:00,200.00,coffee drinker
+1061,Withull,HYGIENIST,16:00,16:30,50.00,
+1467,Withull,HYGIENIST,16:30,17:45,125.00,declined flouride
+1807,Stebbing,ORTHODONTIST,07:30,08:30,245.00,under-bite
+335,Stebbing,ORTHODONTIST,08:30,09:00,122.50,under-bite
+1949,Stebbing,ORTHODONTIST,09:00,10:00,245.00,Extraction required.
+1041,Stebbing,ORTHODONTIST,10:00,10:15,61.25,over-bite
+148,Stebbing,ORTHODONTIST,10:15,10:45,122.50,slowing treatment to reduce discomfort
+1369,Stebbing,ORTHODONTIST,10:45,11:15,122.50,Extraction required.
+102,Stebbing,ORTHODONTIST,11:15,11:30,61.25,
+390,Stebbing,ORTHODONTIST,11:30,12:00,122.50,
+806,Stebbing,ORTHODONTIST,12:00,12:15,61.25,slowing treatment to reduce discomfort
+711,Stebbing,ORTHODONTIST,12:15,12:30,61.25,under-bite
+1069,Stebbing,ORTHODONTIST,13:00,13:45,183.75,over-bite
+730,Stebbing,ORTHODONTIST,13:45,14:45,245.00,Not following treatment plan.
+257,Stebbing,ORTHODONTIST,14:45,15:45,245.00,over-bite
+1254,Stebbing,ORTHODONTIST,15:45,16:45,245.00,Extraction required.
+216,Stebbing,ORTHODONTIST,16:45,17:15,122.50,
+835,Stebbing,ORTHODONTIST,17:15,18:00,183.75,

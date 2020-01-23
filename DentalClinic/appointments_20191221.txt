@@ -1,0 +1,25 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+1312,O'Dunneen,DENTIST,08:30,08:45,43.75,followup on pre-decay
+1098,O'Dunneen,DENTIST,08:45,11:15,437.50,
+539,Eveque,DENTIST,08:30,08:45,46.25,
+1888,Eveque,DENTIST,08:45,11:45,555.00,Some receding of gums.
+1038,Dearn,DENTIST,08:30,11:15,550.00,Some receding of gums.
+725,Dearn,DENTIST,11:15,12:30,250.00,
+1441,Tebbet,HYGIENIST,08:30,09:45,106.25,coffee drinker
+1276,Tebbet,HYGIENIST,09:45,11:45,170.00,possible decay on 12E
+935,Robins,HYGIENIST,08:30,10:00,127.50,
+209,Robins,HYGIENIST,10:00,12:00,170.00,declined flouride
+1300,Curado,HYGIENIST,08:30,10:30,170.00,declined flouride
+1311,Driver,HYGIENIST,08:30,10:00,150.00,possible decay on 12E
+1020,Driver,HYGIENIST,10:00,10:45,75.00,wiggler
+1782,Driver,HYGIENIST,10:45,11:45,100.00,worried about discoloration
+53,Setter,HYGIENIST,08:30,10:15,166.25,wiggler
+218,Setter,HYGIENIST,10:15,12:30,213.75,declined flouride
+157,Withull,HYGIENIST,08:30,09:45,125.00,
+1032,Withull,HYGIENIST,09:45,10:45,100.00,possible decay on 12E
+46,Stebbing,ORTHODONTIST,08:30,09:30,245.00,Extraction required.
+1202,Stebbing,ORTHODONTIST,09:30,10:15,183.75,Extraction required.
+292,Stebbing,ORTHODONTIST,10:15,10:30,61.25,under-bite
+1082,Stebbing,ORTHODONTIST,10:30,11:30,245.00,Not following treatment plan.
+1704,Stebbing,ORTHODONTIST,11:30,11:45,61.25,under-bite
+612,Stebbing,ORTHODONTIST,11:45,12:30,183.75,

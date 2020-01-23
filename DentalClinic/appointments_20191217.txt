@@ -1,0 +1,71 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+580,Buzek,DENTIST,07:30,09:45,393.75,Some receding of gums.
+1147,Buzek,DENTIST,09:45,12:15,437.50,
+796,Buzek,DENTIST,13:00,13:15,43.75,Some receding of gums.
+1220,Buzek,DENTIST,13:15,15:45,437.50,Some receding of gums.
+1816,Buzek,DENTIST,15:45,17:00,218.75,followup on pre-decay
+348,Buzek,DENTIST,17:00,17:45,131.25,followup on pre-decay
+35,Lidstone,DENTIST,07:30,10:15,481.25,
+661,Lidstone,DENTIST,13:00,13:45,131.25,recommend wisdom tooth extraction
+1778,Lidstone,DENTIST,13:45,15:00,218.75,
+298,Lidstone,DENTIST,15:00,15:45,131.25,
+531,Toler,DENTIST,07:30,09:45,450.00,Irritation around molars.
+122,Toler,DENTIST,09:45,10:15,100.00,recommend wisdom tooth extraction
+775,Toler,DENTIST,10:15,12:30,450.00,recommend wisdom tooth extraction
+1994,Toler,DENTIST,13:00,14:45,350.00,Irritation around molars.
+1840,Toler,DENTIST,14:45,16:30,350.00,
+1857,Schreurs,HYGIENIST,07:30,08:45,106.25,wiggler
+365,Schreurs,HYGIENIST,08:45,10:00,106.25,declined flouride
+1562,Schreurs,HYGIENIST,10:00,11:30,127.50,coffee drinker
+1390,Schreurs,HYGIENIST,13:00,14:45,148.75,wiggler
+1172,Schreurs,HYGIENIST,14:45,17:00,191.25,Difficult patient
+344,Gergolet,HYGIENIST,07:30,09:15,148.75,Difficult patient
+1108,Gergolet,HYGIENIST,09:15,10:00,63.75,
+326,Gergolet,HYGIENIST,10:00,11:15,106.25,coffee drinker
+873,Gergolet,HYGIENIST,13:00,14:15,106.25,
+1224,Gergolet,HYGIENIST,14:15,15:45,127.50,possible decay on 12E
+1271,Gergolet,HYGIENIST,15:45,16:15,42.50,Difficult patient
+1183,Gergolet,HYGIENIST,16:15,18:00,148.75,
+297,Bygreaves,HYGIENIST,07:30,08:15,60.00,Difficult patient
+587,Bygreaves,HYGIENIST,08:15,09:00,60.00,Difficult patient
+1285,Bygreaves,HYGIENIST,09:00,10:00,80.00,
+121,Bygreaves,HYGIENIST,10:00,10:30,40.00,
+1911,Bygreaves,HYGIENIST,10:30,12:30,160.00,worried about discoloration
+110,Bygreaves,HYGIENIST,13:00,15:15,180.00,declined flouride
+601,Bygreaves,HYGIENIST,15:15,17:30,180.00,possible decay on 12E
+1170,Setterfield,HYGIENIST,07:30,08:45,125.00,worried about discoloration
+15,Setterfield,HYGIENIST,08:45,09:15,50.00,Difficult patient
+620,Setterfield,HYGIENIST,09:15,11:00,175.00,
+1561,Setterfield,HYGIENIST,13:00,13:45,75.00,declined flouride
+1610,Setterfield,HYGIENIST,13:45,15:15,150.00,coffee drinker
+638,Setterfield,HYGIENIST,15:15,16:00,75.00,declined flouride
+807,Setterfield,HYGIENIST,16:00,17:30,150.00,possible decay on 12E
+1944,McCrann,HYGIENIST,07:30,09:45,225.00,Difficult patient
+743,McCrann,HYGIENIST,09:45,12:00,225.00,Difficult patient
+1842,McCrann,HYGIENIST,13:00,13:45,75.00,
+1346,McCrann,HYGIENIST,13:45,14:30,75.00,Difficult patient
+514,McCrann,HYGIENIST,14:30,15:30,100.00,worried about discoloration
+393,McCrann,HYGIENIST,15:30,16:15,75.00,worried about discoloration
+1457,McCrann,HYGIENIST,16:15,16:45,50.00,
+426,McCrann,HYGIENIST,16:45,17:15,50.00,declined flouride
+1575,Tomaskov,HYGIENIST,07:30,08:15,75.00,declined flouride
+952,Tomaskov,HYGIENIST,08:15,10:30,225.00,
+1496,Tomaskov,HYGIENIST,10:30,12:30,200.00,declined flouride
+60,Tomaskov,HYGIENIST,13:00,14:30,150.00,Inflammation
+201,Tomaskov,HYGIENIST,14:30,16:30,200.00,wiggler
+389,Tomaskov,HYGIENIST,16:30,17:15,75.00,
+1243,Bovingdon,ORTHODONTIST,07:30,08:30,250.00,over-bite
+1616,Bovingdon,ORTHODONTIST,08:30,09:15,187.50,slowing treatment to reduce discomfort
+1798,Bovingdon,ORTHODONTIST,09:15,09:45,125.00,Not following treatment plan.
+1077,Bovingdon,ORTHODONTIST,09:45,10:45,250.00,Extraction required.
+1552,Bovingdon,ORTHODONTIST,10:45,11:45,250.00,
+772,Bovingdon,ORTHODONTIST,11:45,12:15,125.00,
+986,Bovingdon,ORTHODONTIST,12:15,12:30,62.50,
+1779,Bovingdon,ORTHODONTIST,13:00,14:00,250.00,
+556,Bovingdon,ORTHODONTIST,14:00,15:00,250.00,
+1664,Bovingdon,ORTHODONTIST,15:00,15:30,125.00,Not following treatment plan.
+143,Bovingdon,ORTHODONTIST,15:30,16:00,125.00,over-bite
+691,Bovingdon,ORTHODONTIST,16:00,17:00,250.00,
+1817,Bovingdon,ORTHODONTIST,17:00,18:00,250.00,
+1475,Woodfield,ORAL_SURGEON,07:30,08:45,403.94,
+1052,Woodfield,ORAL_SURGEON,13:00,16:00,969.45,some risk of bone loss

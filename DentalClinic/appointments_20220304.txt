@@ -1,0 +1,5 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+2002,Dearn,DENTIST,14:00,15:00,200.00,null
+2002,Dearn,DENTIST,14:00,15:00,200.00,null
+894,Lidstone,DENTIST,10:00,11:00,175.00,null
+263,O'Dunneen,DENTIST,09:00,10:00,175.00,null

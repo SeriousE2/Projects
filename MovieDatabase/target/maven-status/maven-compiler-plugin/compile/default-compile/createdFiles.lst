@@ -1,0 +1,9 @@
+com/mycompany/moviedatabase/controller/MovieDataBaseController.class
+com/mycompany/moviedatabase/ui/MovieDataBaseView.class
+com/mycompany/moviedatabase/dto/Movie.class
+com/mycompany/moviedatabase/dao/DataException.class
+com/mycompany/moviedatabase/dao/MovieDataBaseDao.class
+com/mycompany/moviedatabase/ui/UserIO.class
+com/mycompany/moviedatabase/dao/MovieDataBaseDaoFileImpl.class
+com/mycompany/moviedatabase/App.class
+com/mycompany/moviedatabase/ui/UserIOConsoleImpl.class

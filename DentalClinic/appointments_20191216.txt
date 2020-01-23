@@ -1,0 +1,74 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+1228,Buzek,DENTIST,07:30,09:45,393.75,recommend wisdom tooth extraction
+232,Buzek,DENTIST,09:45,11:00,218.75,
+1775,Buzek,DENTIST,13:00,16:00,525.00,gingivitis
+834,Buzek,DENTIST,16:00,16:30,87.50,Crown required.
+875,Buzek,DENTIST,16:30,16:45,43.75,Irritation around molars.
+1819,Buzek,DENTIST,16:45,17:30,131.25,followup on pre-decay
+881,Lidstone,DENTIST,07:30,08:00,87.50,gingivitis
+265,Lidstone,DENTIST,08:00,09:00,175.00,
+1398,Lidstone,DENTIST,09:00,11:30,437.50,followup on pre-decay
+1892,Lidstone,DENTIST,13:00,13:15,43.75,
+526,Lidstone,DENTIST,13:15,13:45,87.50,recommend wisdom tooth extraction
+1107,Lidstone,DENTIST,13:45,16:45,525.00,Crown required.
+1559,Lidstone,DENTIST,16:45,17:30,131.25,Irritation around molars.
+222,Toler,DENTIST,07:30,08:30,200.00,
+1264,Toler,DENTIST,08:30,10:00,300.00,
+1804,Toler,DENTIST,10:00,12:30,500.00,Crown required.
+421,Toler,DENTIST,13:00,13:45,150.00,recommend wisdom tooth extraction
+105,Toler,DENTIST,13:45,15:00,250.00,
+1986,Toler,DENTIST,15:00,16:45,350.00,followup on pre-decay
+979,Schreurs,HYGIENIST,07:30,08:45,106.25,worried about discoloration
+359,Schreurs,HYGIENIST,08:45,10:30,148.75,worried about discoloration
+1835,Schreurs,HYGIENIST,10:30,12:15,148.75,
+227,Schreurs,HYGIENIST,13:00,14:00,85.00,
+951,Schreurs,HYGIENIST,14:00,15:45,148.75,worried about discoloration
+617,Schreurs,HYGIENIST,15:45,16:30,63.75,coffee drinker
+837,Schreurs,HYGIENIST,16:30,17:15,63.75,declined flouride
+253,Gergolet,HYGIENIST,07:30,08:15,63.75,
+1159,Gergolet,HYGIENIST,08:15,10:15,170.00,
+1031,Gergolet,HYGIENIST,10:15,12:00,148.75,Inflammation
+1514,Gergolet,HYGIENIST,13:00,14:00,85.00,Difficult patient
+376,Gergolet,HYGIENIST,14:00,15:30,127.50,
+1846,Gergolet,HYGIENIST,15:30,16:45,106.25,possible decay on 12E
+909,Bygreaves,HYGIENIST,07:30,09:45,180.00,
+799,Bygreaves,HYGIENIST,09:45,10:15,40.00,wiggler
+197,Bygreaves,HYGIENIST,10:15,11:45,120.00,worried about discoloration
+1598,Bygreaves,HYGIENIST,13:00,15:15,180.00,
+1917,Bygreaves,HYGIENIST,15:15,17:00,140.00,wiggler
+1262,Setterfield,HYGIENIST,07:30,09:00,150.00,
+1313,Setterfield,HYGIENIST,09:00,10:30,150.00,possible decay on 12E
+1260,Setterfield,HYGIENIST,10:30,12:30,200.00,Difficult patient
+109,Setterfield,HYGIENIST,13:00,14:00,100.00,wiggler
+63,Setterfield,HYGIENIST,14:00,15:00,100.00,wiggler
+1435,Setterfield,HYGIENIST,15:00,16:00,100.00,
+501,Setterfield,HYGIENIST,16:00,17:15,125.00,Inflammation
+465,McCrann,HYGIENIST,07:30,09:30,200.00,wiggler
+318,McCrann,HYGIENIST,09:30,11:30,200.00,
+161,McCrann,HYGIENIST,13:00,15:00,200.00,Difficult patient
+1269,McCrann,HYGIENIST,15:00,17:00,200.00,declined flouride
+1473,McCrann,HYGIENIST,17:00,18:00,100.00,declined flouride
+372,Tomaskov,HYGIENIST,07:30,09:30,200.00,
+1828,Tomaskov,HYGIENIST,09:30,11:00,150.00,coffee drinker
+1908,Tomaskov,HYGIENIST,11:00,11:30,50.00,
+1075,Tomaskov,HYGIENIST,11:30,12:15,75.00,wiggler
+1624,Tomaskov,HYGIENIST,13:00,14:15,125.00,declined flouride
+1805,Tomaskov,HYGIENIST,14:15,15:45,150.00,wiggler
+1356,Tomaskov,HYGIENIST,15:45,17:15,150.00,
+438,Bovingdon,ORTHODONTIST,07:30,08:00,125.00,
+912,Bovingdon,ORTHODONTIST,08:00,08:30,125.00,Extraction required.
+1143,Bovingdon,ORTHODONTIST,08:30,09:15,187.50,slowing treatment to reduce discomfort
+1734,Bovingdon,ORTHODONTIST,09:15,09:45,125.00,Not following treatment plan.
+84,Bovingdon,ORTHODONTIST,09:45,10:45,250.00,under-bite
+1652,Bovingdon,ORTHODONTIST,10:45,11:15,125.00,under-bite
+1995,Bovingdon,ORTHODONTIST,11:15,11:45,125.00,over-bite
+1306,Bovingdon,ORTHODONTIST,13:00,14:00,250.00,Not following treatment plan.
+1740,Bovingdon,ORTHODONTIST,14:00,14:15,62.50,
+474,Bovingdon,ORTHODONTIST,14:15,14:45,125.00,Extraction required.
+303,Bovingdon,ORTHODONTIST,14:45,15:30,187.50,
+119,Bovingdon,ORTHODONTIST,15:30,16:15,187.50,
+116,Bovingdon,ORTHODONTIST,16:15,17:15,250.00,Extraction required.
+1811,Bovingdon,ORTHODONTIST,17:15,17:45,125.00,
+77,Woodfield,ORAL_SURGEON,07:30,08:45,403.94,healing is good
+1694,Woodfield,ORAL_SURGEON,08:45,11:00,727.09,
+928,Woodfield,ORAL_SURGEON,13:00,15:00,646.30,

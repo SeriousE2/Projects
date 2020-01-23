@@ -1,0 +1,73 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+923,Buzek,DENTIST,07:30,09:00,262.50,Irritation around molars.
+217,Buzek,DENTIST,09:00,09:45,131.25,Some receding of gums.
+545,Buzek,DENTIST,09:45,12:00,393.75,
+1049,Buzek,DENTIST,13:00,14:15,218.75,
+3,Buzek,DENTIST,14:15,15:45,262.50,
+753,Lidstone,DENTIST,07:30,09:30,350.00,Irritation around molars.
+1600,Lidstone,DENTIST,09:30,09:45,43.75,gingivitis
+1087,Lidstone,DENTIST,09:45,12:15,437.50,Irritation around molars.
+810,Lidstone,DENTIST,13:00,13:45,131.25,
+275,Lidstone,DENTIST,13:45,16:00,393.75,Irritation around molars.
+667,Toler,DENTIST,07:30,07:45,50.00,Some receding of gums.
+872,Toler,DENTIST,07:45,08:15,100.00,
+629,Toler,DENTIST,08:15,10:30,450.00,Crown required.
+1252,Toler,DENTIST,10:30,12:30,400.00,followup on pre-decay
+1997,Toler,DENTIST,13:00,15:15,450.00,
+586,Schreurs,HYGIENIST,07:30,08:15,63.75,coffee drinker
+1198,Schreurs,HYGIENIST,08:15,09:30,106.25,Difficult patient
+983,Schreurs,HYGIENIST,09:30,10:15,63.75,coffee drinker
+631,Schreurs,HYGIENIST,10:15,12:30,191.25,coffee drinker
+489,Schreurs,HYGIENIST,13:00,13:30,42.50,
+527,Schreurs,HYGIENIST,13:30,14:15,63.75,Difficult patient
+1551,Schreurs,HYGIENIST,14:15,15:00,63.75,coffee drinker
+414,Schreurs,HYGIENIST,15:00,16:00,85.00,worried about discoloration
+1752,Schreurs,HYGIENIST,16:00,16:45,63.75,Inflammation
+746,Schreurs,HYGIENIST,16:45,17:45,85.00,declined flouride
+239,Gergolet,HYGIENIST,07:30,09:30,170.00,Inflammation
+1241,Gergolet,HYGIENIST,09:30,11:30,170.00,worried about discoloration
+1515,Gergolet,HYGIENIST,13:00,15:15,191.25,Inflammation
+1160,Gergolet,HYGIENIST,15:15,17:00,148.75,wiggler
+1200,Bygreaves,HYGIENIST,07:30,09:30,160.00,
+101,Bygreaves,HYGIENIST,09:30,11:15,140.00,
+1046,Bygreaves,HYGIENIST,11:15,12:00,60.00,wiggler
+1631,Bygreaves,HYGIENIST,13:00,15:15,180.00,Inflammation
+59,Bygreaves,HYGIENIST,15:15,16:00,60.00,Inflammation
+204,Bygreaves,HYGIENIST,16:00,17:15,100.00,Difficult patient
+7,Bygreaves,HYGIENIST,17:15,18:00,60.00,
+1820,Setterfield,HYGIENIST,07:30,08:45,125.00,
+1548,Setterfield,HYGIENIST,08:45,10:30,175.00,Difficult patient
+291,Setterfield,HYGIENIST,10:30,11:45,125.00,Difficult patient
+1847,Setterfield,HYGIENIST,13:00,15:00,200.00,Inflammation
+838,Setterfield,HYGIENIST,15:00,15:45,75.00,Difficult patient
+180,Setterfield,HYGIENIST,15:45,17:45,200.00,worried about discoloration
+163,McCrann,HYGIENIST,07:30,08:30,100.00,Inflammation
+911,McCrann,HYGIENIST,08:30,10:00,150.00,
+1513,McCrann,HYGIENIST,10:00,12:15,225.00,Inflammation
+1677,McCrann,HYGIENIST,13:00,14:00,100.00,declined flouride
+779,McCrann,HYGIENIST,14:00,15:45,175.00,worried about discoloration
+1966,McCrann,HYGIENIST,15:45,17:00,125.00,Inflammation
+433,McCrann,HYGIENIST,17:00,17:30,50.00,Inflammation
+850,Tomaskov,HYGIENIST,07:30,08:30,100.00,
+1127,Tomaskov,HYGIENIST,08:30,09:00,50.00,
+1333,Tomaskov,HYGIENIST,09:00,11:00,200.00,
+1870,Tomaskov,HYGIENIST,11:00,12:30,150.00,Difficult patient
+1821,Tomaskov,HYGIENIST,13:00,15:15,225.00,wiggler
+1085,Tomaskov,HYGIENIST,15:15,17:30,225.00,declined flouride
+869,Bovingdon,ORTHODONTIST,07:30,07:45,62.50,under-bite
+1126,Bovingdon,ORTHODONTIST,07:45,08:45,250.00,
+582,Bovingdon,ORTHODONTIST,08:45,09:00,62.50,
+576,Bovingdon,ORTHODONTIST,09:00,09:45,187.50,over-bite
+1507,Bovingdon,ORTHODONTIST,09:45,10:15,125.00,Not following treatment plan.
+338,Bovingdon,ORTHODONTIST,10:15,11:15,250.00,
+1618,Bovingdon,ORTHODONTIST,11:15,11:30,62.50,Extraction required.
+1868,Bovingdon,ORTHODONTIST,11:30,12:30,250.00,
+1104,Bovingdon,ORTHODONTIST,13:00,14:00,250.00,
+594,Bovingdon,ORTHODONTIST,14:00,14:15,62.50,slowing treatment to reduce discomfort
+1622,Bovingdon,ORTHODONTIST,14:15,14:45,125.00,under-bite
+1003,Bovingdon,ORTHODONTIST,14:45,15:30,187.50,
+247,Bovingdon,ORTHODONTIST,15:30,16:15,187.50,Extraction required.
+1953,Bovingdon,ORTHODONTIST,16:15,16:45,125.00,
+129,Bovingdon,ORTHODONTIST,16:45,17:15,125.00,over-bite
+1795,Bovingdon,ORTHODONTIST,17:15,17:45,125.00,
+906,Woodfield,ORAL_SURGEON,07:30,11:30,1292.60,accident.

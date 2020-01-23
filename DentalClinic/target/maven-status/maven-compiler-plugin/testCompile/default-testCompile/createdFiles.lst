@@ -1,0 +1,10 @@
+com/mycompany/dentalclinic/serviceTest/AppointmentServiceTest.class
+com/mycompany/dentalclinic/dataTest/AppointmentsFileDaoTestStub.class
+com/mycompany/dentalclinic/serviceTest/DentalClinicServiceTest.class
+com/mycompany/dentalclinic/serviceTest/ProfessionalServiceTest.class
+com/mycompany/dentalclinic/dataTest/CustomerFileDaoTest.class
+com/mycompany/dentalclinic/dataTest/ProfessionalFileDaoTestStub.class
+com/mycompany/dentalclinic/dataTest/CustomerFileDaoTestStub.class
+com/mycompany/dentalclinic/dataTest/ProfessionalFileDaoTest.class
+com/mycompany/dentalclinic/serviceTest/CustomerServiceTest.class
+com/mycompany/dentalclinic/dataTest/AppointmentsFileDaoTest.class

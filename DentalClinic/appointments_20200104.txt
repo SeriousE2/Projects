@@ -1,0 +1,2 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+869,Buzek,DENTIST,07:00,08:00,175.00,null

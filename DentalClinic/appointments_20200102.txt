@@ -1,0 +1,40 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+1314,O'Dunneen,DENTIST,07:30,08:15,131.25,125.00
+798,O'Dunneen,DENTIST,13:00,15:15,393.75,Irritation around molars.
+290,Eveque,DENTIST,07:30,07:45,46.25,Irritation around molars.
+1372,Eveque,DENTIST,07:45,10:15,462.50,recommend wisdom tooth extraction
+704,Eveque,DENTIST,10:15,11:15,185.00,followup on pre-decay
+1468,Eveque,DENTIST,13:00,14:15,231.25,followup on pre-decay
+436,Dearn,DENTIST,09:30,11:15,350.00,Irritation around molars.
+1367,Dearn,DENTIST,14:00,16:45,550.00,recommend wisdom tooth extraction
+1943,Tebbet,HYGIENIST,09:00,10:30,127.50,Difficult patient
+1436,Tebbet,HYGIENIST,13:00,13:30,42.50,possible decay on 12E
+727,Tebbet,HYGIENIST,13:30,14:15,63.75,coffee drinker
+1506,Tebbet,HYGIENIST,14:15,16:30,191.25,Inflammation
+597,Robins,HYGIENIST,10:45,12:15,127.50,Inflammation
+1124,Robins,HYGIENIST,14:45,16:00,106.25,coffee drinker
+1886,Curado,HYGIENIST,07:30,09:45,191.25,Inflammation
+1702,Curado,HYGIENIST,09:45,10:30,63.75,wiggler
+1719,Curado,HYGIENIST,11:00,11:45,63.75,Inflammation
+512,Curado,HYGIENIST,13:00,14:00,85.00,possible decay on 12E
+503,Curado,HYGIENIST,16:15,17:45,127.50,worried about discoloration
+1045,Driver,HYGIENIST,07:30,09:15,175.00,wiggler
+1524,Driver,HYGIENIST,11:00,11:30,50.00,Inflammation
+769,Driver,HYGIENIST,13:00,15:00,200.00,Difficult patient
+732,Driver,HYGIENIST,15:00,16:30,150.00,coffee drinker
+1792,Setter,HYGIENIST,07:30,09:15,166.25,worried about discoloration
+1659,Setter,HYGIENIST,13:00,15:15,213.75,wiggler
+1629,Setter,HYGIENIST,15:15,16:15,95.00,declined flouride
+897,Setter,HYGIENIST,16:15,18:00,166.25,coffee drinker
+511,Withull,HYGIENIST,07:30,09:00,150.00,worried about discoloration
+21,Withull,HYGIENIST,09:00,09:45,75.00,worried about discoloration
+1801,Withull,HYGIENIST,14:30,15:00,50.00,possible decay on 12E
+1877,Withull,HYGIENIST,15:00,17:00,200.00,wiggler
+1774,Stebbing,ORTHODONTIST,07:30,08:15,183.75,Extraction required.
+1668,Stebbing,ORTHODONTIST,09:30,10:00,122.50,Extraction required.
+1856,Stebbing,ORTHODONTIST,10:00,10:45,183.75,slowing treatment to reduce discomfort
+178,Stebbing,ORTHODONTIST,11:45,12:00,61.25,Extraction required.
+583,Stebbing,ORTHODONTIST,14:00,14:30,122.50,Not following treatment plan.
+1401,Stebbing,ORTHODONTIST,14:30,15:00,122.50,Not following treatment plan.
+130,Stebbing,ORTHODONTIST,15:00,15:15,61.25,slowing treatment to reduce discomfort
+2014,Buzek,DENTIST,07:00,07:30,175.00,null

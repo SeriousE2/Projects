@@ -1,0 +1,70 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+1860,O'Dunneen,DENTIST,07:30,07:45,43.75,recommend wisdom tooth extraction
+1788,O'Dunneen,DENTIST,07:45,09:00,218.75,Irritation around molars.
+1500,O'Dunneen,DENTIST,09:00,09:15,43.75,
+1338,O'Dunneen,DENTIST,09:15,10:15,175.00,followup on pre-decay
+484,O'Dunneen,DENTIST,10:15,11:30,218.75,
+505,O'Dunneen,DENTIST,13:00,15:30,437.50,
+1560,O'Dunneen,DENTIST,15:30,16:30,175.00,
+322,O'Dunneen,DENTIST,16:30,17:00,87.50,
+1121,Eveque,DENTIST,07:30,09:15,323.75,followup on pre-decay
+1876,Eveque,DENTIST,09:15,12:15,555.00,Some receding of gums.
+273,Eveque,DENTIST,13:00,14:00,185.00,Crown required.
+866,Eveque,DENTIST,14:00,14:15,46.25,recommend wisdom tooth extraction
+1134,Eveque,DENTIST,14:15,16:00,323.75,recommend wisdom tooth extraction
+4,Dearn,DENTIST,07:30,10:30,600.00,
+702,Dearn,DENTIST,10:30,12:15,350.00,gingivitis
+1025,Dearn,DENTIST,13:00,16:00,600.00,
+1923,Tebbet,HYGIENIST,07:30,09:15,148.75,Difficult patient
+185,Tebbet,HYGIENIST,09:15,11:15,170.00,coffee drinker
+572,Tebbet,HYGIENIST,11:15,11:45,42.50,
+1461,Tebbet,HYGIENIST,13:00,14:45,148.75,wiggler
+963,Tebbet,HYGIENIST,14:45,16:00,106.25,wiggler
+1008,Tebbet,HYGIENIST,16:00,16:30,42.50,coffee drinker
+595,Tebbet,HYGIENIST,16:30,17:15,63.75,
+513,Tebbet,HYGIENIST,17:15,17:45,42.50,wiggler
+1244,Robins,HYGIENIST,07:30,09:00,127.50,possible decay on 12E
+1872,Robins,HYGIENIST,09:00,09:45,63.75,
+1374,Robins,HYGIENIST,09:45,11:30,148.75,
+1079,Robins,HYGIENIST,13:00,15:15,191.25,coffee drinker
+128,Robins,HYGIENIST,15:15,17:15,170.00,coffee drinker
+1988,Curado,HYGIENIST,07:30,08:45,106.25,
+147,Curado,HYGIENIST,08:45,10:45,170.00,declined flouride
+150,Curado,HYGIENIST,10:45,12:30,148.75,
+754,Curado,HYGIENIST,13:00,14:00,85.00,wiggler
+1426,Curado,HYGIENIST,14:00,15:30,127.50,Difficult patient
+1334,Curado,HYGIENIST,15:30,17:00,127.50,wiggler
+120,Driver,HYGIENIST,07:30,09:00,150.00,
+33,Driver,HYGIENIST,09:00,09:30,50.00,coffee drinker
+1076,Driver,HYGIENIST,09:30,11:00,150.00,Difficult patient
+27,Driver,HYGIENIST,13:00,15:15,225.00,worried about discoloration
+1325,Driver,HYGIENIST,15:15,17:30,225.00,worried about discoloration
+1053,Setter,HYGIENIST,07:30,09:45,213.75,Difficult patient
+1428,Setter,HYGIENIST,09:45,10:30,71.25,coffee drinker
+1258,Setter,HYGIENIST,10:30,12:00,142.50,Inflammation
+640,Setter,HYGIENIST,13:00,15:15,213.75,declined flouride
+1582,Setter,HYGIENIST,15:15,17:00,166.25,declined flouride
+706,Withull,HYGIENIST,07:30,09:30,200.00,
+1093,Withull,HYGIENIST,09:30,11:30,200.00,wiggler
+1450,Withull,HYGIENIST,13:00,14:45,175.00,coffee drinker
+1157,Withull,HYGIENIST,14:45,16:15,150.00,Inflammation
+1364,Withull,HYGIENIST,16:15,18:00,175.00,wiggler
+24,Stebbing,ORTHODONTIST,07:30,08:00,122.50,Extraction required.
+12,Stebbing,ORTHODONTIST,08:00,08:15,61.25,Extraction required.
+258,Stebbing,ORTHODONTIST,08:15,09:15,245.00,over-bite
+651,Stebbing,ORTHODONTIST,09:15,10:00,183.75,
+1185,Stebbing,ORTHODONTIST,10:00,10:30,122.50,under-bite
+1518,Stebbing,ORTHODONTIST,10:30,11:00,122.50,slowing treatment to reduce discomfort
+248,Stebbing,ORTHODONTIST,11:00,11:15,61.25,
+1558,Stebbing,ORTHODONTIST,11:15,12:00,183.75,Extraction required.
+1626,Stebbing,ORTHODONTIST,13:00,13:45,183.75,slowing treatment to reduce discomfort
+1447,Stebbing,ORTHODONTIST,13:45,14:15,122.50,over-bite
+486,Stebbing,ORTHODONTIST,14:15,14:45,122.50,slowing treatment to reduce discomfort
+871,Stebbing,ORTHODONTIST,14:45,15:00,61.25,
+886,Stebbing,ORTHODONTIST,15:00,15:15,61.25,over-bite
+1565,Stebbing,ORTHODONTIST,15:15,15:30,61.25,
+367,Stebbing,ORTHODONTIST,15:30,15:45,61.25,slowing treatment to reduce discomfort
+1960,Stebbing,ORTHODONTIST,15:45,16:15,122.50,over-bite
+1122,Stebbing,ORTHODONTIST,16:15,17:00,183.75,over-bite
+1210,Stebbing,ORTHODONTIST,17:00,17:15,61.25,
+1089,Stebbing,ORTHODONTIST,17:15,17:30,61.25,

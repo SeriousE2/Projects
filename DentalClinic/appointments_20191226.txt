@@ -1,0 +1,73 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+455,O'Dunneen,DENTIST,07:30,08:00,87.50,Some receding of gums.
+429,O'Dunneen,DENTIST,08:00,08:15,43.75,Some receding of gums.
+1770,O'Dunneen,DENTIST,08:15,11:00,481.25,
+333,O'Dunneen,DENTIST,11:00,11:15,43.75,recommend wisdom tooth extraction
+1502,O'Dunneen,DENTIST,11:15,12:00,131.25,gingivitis
+1658,O'Dunneen,DENTIST,13:00,15:45,481.25,gingivitis
+1479,Eveque,DENTIST,07:30,10:00,462.50,Irritation around molars.
+117,Eveque,DENTIST,10:00,12:30,462.50,Irritation around molars.
+1064,Eveque,DENTIST,13:00,15:15,416.25,gingivitis
+562,Eveque,DENTIST,15:15,16:15,185.00,Irritation around molars.
+1358,Dearn,DENTIST,07:30,08:15,150.00,
+1205,Dearn,DENTIST,08:15,09:00,150.00,
+1175,Dearn,DENTIST,09:00,11:30,500.00,recommend wisdom tooth extraction
+1133,Dearn,DENTIST,13:00,13:30,100.00,followup on pre-decay
+856,Dearn,DENTIST,13:30,13:45,50.00,recommend wisdom tooth extraction
+994,Dearn,DENTIST,13:45,14:00,50.00,Some receding of gums.
+1971,Dearn,DENTIST,14:00,16:00,400.00,Irritation around molars.
+135,Dearn,DENTIST,16:00,16:45,150.00,Irritation around molars.
+1027,Dearn,DENTIST,16:45,17:00,50.00,
+1099,Tebbet,HYGIENIST,07:30,08:45,106.25,
+893,Tebbet,HYGIENIST,08:45,09:45,85.00,
+884,Tebbet,HYGIENIST,09:45,10:15,42.50,
+339,Tebbet,HYGIENIST,10:15,11:30,106.25,declined flouride
+536,Tebbet,HYGIENIST,11:30,12:15,63.75,possible decay on 12E
+165,Tebbet,HYGIENIST,13:00,15:00,170.00,wiggler
+220,Tebbet,HYGIENIST,15:00,16:15,106.25,wiggler
+1544,Robins,HYGIENIST,07:30,08:45,106.25,
+1718,Robins,HYGIENIST,08:45,10:15,127.50,coffee drinker
+1741,Robins,HYGIENIST,10:15,11:30,106.25,wiggler
+211,Robins,HYGIENIST,13:00,15:15,191.25,wiggler
+1581,Robins,HYGIENIST,15:15,17:15,170.00,possible decay on 12E
+770,Curado,HYGIENIST,07:30,09:00,127.50,Inflammation
+1735,Curado,HYGIENIST,09:00,10:00,85.00,worried about discoloration
+542,Curado,HYGIENIST,10:00,11:45,148.75,
+1956,Curado,HYGIENIST,11:45,12:15,42.50,
+250,Curado,HYGIENIST,13:00,14:30,127.50,
+1272,Curado,HYGIENIST,14:30,15:15,63.75,
+758,Curado,HYGIENIST,15:15,17:00,148.75,coffee drinker
+316,Driver,HYGIENIST,07:30,09:45,225.00,Difficult patient
+1715,Driver,HYGIENIST,09:45,10:30,75.00,worried about discoloration
+1628,Driver,HYGIENIST,10:30,12:30,200.00,Difficult patient
+1511,Driver,HYGIENIST,13:00,13:45,75.00,
+787,Driver,HYGIENIST,13:45,16:00,225.00,declined flouride
+360,Driver,HYGIENIST,16:00,17:30,150.00,
+1905,Setter,HYGIENIST,07:30,08:45,118.75,worried about discoloration
+443,Setter,HYGIENIST,08:45,10:45,190.00,wiggler
+840,Setter,HYGIENIST,13:00,14:45,166.25,worried about discoloration
+1256,Setter,HYGIENIST,14:45,16:00,118.75,wiggler
+188,Setter,HYGIENIST,16:00,17:00,95.00,coffee drinker
+1884,Setter,HYGIENIST,17:00,17:30,47.50,coffee drinker
+1948,Setter,HYGIENIST,17:30,18:00,47.50,
+626,Withull,HYGIENIST,07:30,09:15,175.00,
+1119,Withull,HYGIENIST,09:15,11:00,175.00,wiggler
+1929,Withull,HYGIENIST,13:00,15:00,200.00,possible decay on 12E
+1083,Withull,HYGIENIST,15:00,17:00,200.00,Inflammation
+399,Stebbing,ORTHODONTIST,07:30,08:15,183.75,
+1787,Stebbing,ORTHODONTIST,08:15,09:00,183.75,over-bite
+830,Stebbing,ORTHODONTIST,09:00,10:00,245.00,slowing treatment to reduce discomfort
+590,Stebbing,ORTHODONTIST,10:00,11:00,245.00,
+1137,Stebbing,ORTHODONTIST,11:00,11:15,61.25,under-bite
+930,Stebbing,ORTHODONTIST,11:15,11:45,122.50,
+1603,Stebbing,ORTHODONTIST,11:45,12:00,61.25,Extraction required.
+277,Stebbing,ORTHODONTIST,13:00,13:30,122.50,
+1277,Stebbing,ORTHODONTIST,13:30,14:30,245.00,Extraction required.
+496,Stebbing,ORTHODONTIST,14:30,14:45,61.25,Extraction required.
+1813,Stebbing,ORTHODONTIST,14:45,15:00,61.25,under-bite
+1567,Stebbing,ORTHODONTIST,15:00,15:30,122.50,under-bite
+212,Stebbing,ORTHODONTIST,15:30,16:15,183.75,over-bite
+1537,Stebbing,ORTHODONTIST,16:15,16:30,61.25,under-bite
+1510,Stebbing,ORTHODONTIST,16:30,17:15,183.75,over-bite
+1412,Stebbing,ORTHODONTIST,17:15,17:30,61.25,
+659,Stebbing,ORTHODONTIST,17:30,17:45,61.25,slowing treatment to reduce discomfort

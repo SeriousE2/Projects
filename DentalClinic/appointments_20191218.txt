@@ -1,0 +1,82 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+734,Buzek,DENTIST,07:30,08:30,175.00,followup on pre-decay
+1329,Buzek,DENTIST,08:30,09:45,218.75,
+392,Buzek,DENTIST,09:45,11:15,262.50,Irritation around molars.
+1736,Buzek,DENTIST,13:00,14:00,175.00,
+937,Buzek,DENTIST,14:00,15:00,175.00,followup on pre-decay
+1924,Buzek,DENTIST,15:00,15:15,43.75,followup on pre-decay
+1839,Buzek,DENTIST,15:15,17:45,437.50,Irritation around molars.
+1830,Lidstone,DENTIST,07:30,08:45,218.75,recommend wisdom tooth extraction
+1898,Lidstone,DENTIST,08:45,09:00,43.75,
+1577,Lidstone,DENTIST,09:00,09:30,87.50,gingivitis
+1755,Lidstone,DENTIST,09:30,12:00,437.50,Irritation around molars.
+1895,Lidstone,DENTIST,13:00,13:45,131.25,Crown required.
+330,Lidstone,DENTIST,13:45,15:45,350.00,
+441,Lidstone,DENTIST,15:45,16:00,43.75,Irritation around molars.
+1650,Lidstone,DENTIST,16:00,17:30,262.50,
+1869,Lidstone,DENTIST,17:30,18:00,87.50,Some receding of gums.
+1814,Toler,DENTIST,07:30,07:45,50.00,followup on pre-decay
+42,Toler,DENTIST,07:45,10:00,450.00,Some receding of gums.
+1583,Toler,DENTIST,10:00,12:30,500.00,Crown required.
+311,Toler,DENTIST,13:00,15:15,450.00,
+950,Toler,DENTIST,15:15,15:30,50.00,Crown required.
+141,Toler,DENTIST,15:30,16:45,250.00,gingivitis
+1433,Schreurs,HYGIENIST,07:30,08:00,42.50,
+1989,Schreurs,HYGIENIST,08:00,09:45,148.75,possible decay on 12E
+1059,Schreurs,HYGIENIST,09:45,11:30,148.75,
+1962,Schreurs,HYGIENIST,13:00,14:15,106.25,Inflammation
+1120,Schreurs,HYGIENIST,14:15,16:15,170.00,
+977,Schreurs,HYGIENIST,16:15,18:00,148.75,Inflammation
+444,Gergolet,HYGIENIST,07:30,08:00,42.50,Difficult patient
+25,Gergolet,HYGIENIST,08:00,10:00,170.00,declined flouride
+1376,Gergolet,HYGIENIST,10:00,12:00,170.00,Inflammation
+598,Gergolet,HYGIENIST,13:00,14:30,127.50,
+1318,Gergolet,HYGIENIST,14:30,15:15,63.75,worried about discoloration
+1421,Gergolet,HYGIENIST,15:15,17:00,148.75,declined flouride
+1001,Gergolet,HYGIENIST,17:00,17:45,63.75,
+1952,Bygreaves,HYGIENIST,07:30,09:00,120.00,worried about discoloration
+671,Bygreaves,HYGIENIST,09:00,09:45,60.00,worried about discoloration
+944,Bygreaves,HYGIENIST,09:45,12:00,180.00,worried about discoloration
+1377,Bygreaves,HYGIENIST,13:00,15:00,160.00,Inflammation
+1342,Bygreaves,HYGIENIST,15:00,16:45,140.00,
+865,Bygreaves,HYGIENIST,16:45,17:30,60.00,
+1237,Setterfield,HYGIENIST,07:30,08:45,125.00,
+1555,Setterfield,HYGIENIST,08:45,10:00,125.00,Difficult patient
+905,Setterfield,HYGIENIST,10:00,11:15,125.00,
+969,Setterfield,HYGIENIST,11:15,12:15,100.00,Difficult patient
+681,Setterfield,HYGIENIST,13:00,14:45,175.00,
+695,Setterfield,HYGIENIST,14:45,16:30,175.00,worried about discoloration
+896,Setterfield,HYGIENIST,16:30,18:00,150.00,wiggler
+1680,McCrann,HYGIENIST,07:30,09:15,175.00,Difficult patient
+19,McCrann,HYGIENIST,09:15,10:45,150.00,Difficult patient
+169,McCrann,HYGIENIST,13:00,14:45,175.00,declined flouride
+1701,McCrann,HYGIENIST,14:45,16:00,125.00,wiggler
+400,McCrann,HYGIENIST,16:00,17:15,125.00,worried about discoloration
+948,Tomaskov,HYGIENIST,07:30,09:30,200.00,coffee drinker
+1799,Tomaskov,HYGIENIST,09:30,11:45,225.00,
+1014,Tomaskov,HYGIENIST,13:00,13:30,50.00,
+1556,Tomaskov,HYGIENIST,13:30,15:15,175.00,possible decay on 12E
+995,Tomaskov,HYGIENIST,15:15,15:45,50.00,Difficult patient
+115,Tomaskov,HYGIENIST,15:45,17:15,150.00,Inflammation
+368,Bovingdon,ORTHODONTIST,07:30,08:15,187.50,
+1505,Bovingdon,ORTHODONTIST,08:15,08:45,125.00,over-bite
+578,Bovingdon,ORTHODONTIST,08:45,09:30,187.50,over-bite
+789,Bovingdon,ORTHODONTIST,09:30,10:15,187.50,
+1275,Bovingdon,ORTHODONTIST,10:15,10:45,125.00,Extraction required.
+1030,Bovingdon,ORTHODONTIST,10:45,11:00,62.50,
+358,Bovingdon,ORTHODONTIST,11:00,12:00,250.00,
+703,Bovingdon,ORTHODONTIST,12:00,12:30,125.00,Extraction required.
+1440,Bovingdon,ORTHODONTIST,13:00,14:00,250.00,Extraction required.
+366,Bovingdon,ORTHODONTIST,14:00,15:00,250.00,
+900,Bovingdon,ORTHODONTIST,15:00,15:30,125.00,
+69,Bovingdon,ORTHODONTIST,15:30,16:15,187.50,slowing treatment to reduce discomfort
+410,Bovingdon,ORTHODONTIST,16:15,16:45,125.00,over-bite
+1699,Bovingdon,ORTHODONTIST,16:45,17:00,62.50,slowing treatment to reduce discomfort
+55,Bovingdon,ORTHODONTIST,17:00,17:15,62.50,Extraction required.
+519,Bovingdon,ORTHODONTIST,17:15,17:30,62.50,
+1826,Bovingdon,ORTHODONTIST,17:30,18:00,125.00,Extraction required.
+892,Woodfield,ORAL_SURGEON,07:30,09:00,484.73,accident.
+1623,Woodfield,ORAL_SURGEON,09:00,11:45,888.66,
+1437,Woodfield,ORAL_SURGEON,13:00,15:45,888.66,
+453,Woodfield,ORAL_SURGEON,15:45,16:30,242.36,
+1634,Woodfield,ORAL_SURGEON,16:30,17:30,323.15,

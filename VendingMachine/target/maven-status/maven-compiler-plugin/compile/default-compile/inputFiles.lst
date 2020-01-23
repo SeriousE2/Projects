@@ -1,0 +1,14 @@
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/dto/Change.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/dao/VendingMachineDaoFileImpl.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/service/NotFoundException.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/dao/VendingMachineDao.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/service/OutOfStockException.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/ui/VendingMachineView.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/service/VendingMachineItemsService.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/controller/VendingMachineController.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/service/InsufficientFundsException.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/dao/DataException.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/ui/UserIOConsoleImpl.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/App.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/ui/UserIO.java
+/Users/Eddy/NetBeansProjects/VendingMachine/src/main/java/com/mycompany/vendingmachine/dto/VendingMachineItems.java

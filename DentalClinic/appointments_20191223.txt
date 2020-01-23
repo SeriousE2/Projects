@@ -1,0 +1,75 @@
+customer_id,dental_pro_lastname,specialty,start_time,end_time,total_cost,notes
+61,Buzek,DENTIST,07:30,09:45,393.75,gingivitis
+1415,Buzek,DENTIST,09:45,11:45,350.00,
+449,Buzek,DENTIST,13:00,16:00,525.00,
+357,Buzek,DENTIST,16:00,16:15,43.75,
+76,Buzek,DENTIST,16:15,17:45,262.50,
+764,Lidstone,DENTIST,07:30,07:45,43.75,recommend wisdom tooth extraction
+1233,Lidstone,DENTIST,07:45,10:00,393.75,
+1017,Lidstone,DENTIST,10:00,11:30,262.50,Irritation around molars.
+213,Lidstone,DENTIST,13:00,14:30,262.50,Crown required.
+179,Lidstone,DENTIST,14:30,16:30,350.00,gingivitis
+1279,Lidstone,DENTIST,16:30,17:30,175.00,
+1184,Toler,DENTIST,07:30,09:30,400.00,Irritation around molars.
+698,Toler,DENTIST,09:30,10:30,200.00,followup on pre-decay
+827,Toler,DENTIST,10:30,12:00,300.00,
+1885,Toler,DENTIST,13:00,14:00,200.00,
+1221,Toler,DENTIST,14:00,16:45,550.00,followup on pre-decay
+1481,Toler,DENTIST,16:45,18:00,250.00,gingivitis
+411,Schreurs,HYGIENIST,07:30,09:45,191.25,declined flouride
+811,Schreurs,HYGIENIST,09:45,10:45,85.00,Inflammation
+844,Schreurs,HYGIENIST,10:45,12:00,106.25,Difficult patient
+8,Schreurs,HYGIENIST,13:00,15:00,170.00,declined flouride
+463,Schreurs,HYGIENIST,15:00,17:15,191.25,worried about discoloration
+332,Gergolet,HYGIENIST,07:30,08:45,106.25,wiggler
+1936,Gergolet,HYGIENIST,08:45,10:00,106.25,
+1508,Gergolet,HYGIENIST,10:00,12:15,191.25,coffee drinker
+1574,Gergolet,HYGIENIST,13:00,15:00,170.00,Inflammation
+280,Gergolet,HYGIENIST,15:00,16:15,106.25,Difficult patient
+1438,Gergolet,HYGIENIST,16:15,17:15,85.00,Inflammation
+113,Bygreaves,HYGIENIST,07:30,08:15,60.00,Inflammation
+448,Bygreaves,HYGIENIST,08:15,09:00,60.00,
+68,Bygreaves,HYGIENIST,09:00,09:45,60.00,coffee drinker
+724,Bygreaves,HYGIENIST,09:45,10:30,60.00,wiggler
+1483,Bygreaves,HYGIENIST,10:30,12:30,160.00,
+675,Bygreaves,HYGIENIST,13:00,15:00,160.00,
+1294,Bygreaves,HYGIENIST,15:00,17:00,160.00,declined flouride
+816,Bygreaves,HYGIENIST,17:00,17:30,40.00,coffee drinker
+1800,Setterfield,HYGIENIST,07:30,09:45,225.00,declined flouride
+524,Setterfield,HYGIENIST,09:45,12:00,225.00,possible decay on 12E
+1640,Setterfield,HYGIENIST,13:00,14:00,100.00,declined flouride
+1644,Setterfield,HYGIENIST,14:00,14:30,50.00,wiggler
+707,Setterfield,HYGIENIST,14:30,15:30,100.00,possible decay on 12E
+599,Setterfield,HYGIENIST,15:30,16:00,50.00,worried about discoloration
+1595,Setterfield,HYGIENIST,16:00,16:30,50.00,Difficult patient
+781,McCrann,HYGIENIST,07:30,08:45,125.00,Difficult patient
+1485,McCrann,HYGIENIST,08:45,10:30,175.00,
+1453,McCrann,HYGIENIST,10:30,11:30,100.00,worried about discoloration
+1219,McCrann,HYGIENIST,13:00,14:45,175.00,coffee drinker
+858,McCrann,HYGIENIST,14:45,16:45,200.00,
+665,McCrann,HYGIENIST,16:45,17:45,100.00,declined flouride
+506,Tomaskov,HYGIENIST,07:30,08:45,125.00,possible decay on 12E
+1698,Tomaskov,HYGIENIST,08:45,09:15,50.00,
+1229,Tomaskov,HYGIENIST,09:15,11:15,200.00,possible decay on 12E
+64,Tomaskov,HYGIENIST,13:00,13:30,50.00,Inflammation
+517,Tomaskov,HYGIENIST,13:30,15:30,200.00,
+485,Tomaskov,HYGIENIST,15:30,17:45,225.00,Inflammation
+1495,Bovingdon,ORTHODONTIST,07:30,08:30,250.00,slowing treatment to reduce discomfort
+997,Bovingdon,ORTHODONTIST,08:30,09:30,250.00,over-bite
+1451,Bovingdon,ORTHODONTIST,09:30,09:45,62.50,under-bite
+259,Bovingdon,ORTHODONTIST,09:45,10:15,125.00,Not following treatment plan.
+1062,Bovingdon,ORTHODONTIST,10:15,10:45,125.00,
+106,Bovingdon,ORTHODONTIST,10:45,11:30,187.50,Extraction required.
+223,Bovingdon,ORTHODONTIST,11:30,12:00,125.00,slowing treatment to reduce discomfort
+1409,Bovingdon,ORTHODONTIST,12:00,12:30,125.00,
+677,Bovingdon,ORTHODONTIST,13:00,13:45,187.50,
+1608,Bovingdon,ORTHODONTIST,13:45,14:30,187.50,over-bite
+1245,Bovingdon,ORTHODONTIST,14:30,15:15,187.50,
+274,Bovingdon,ORTHODONTIST,15:15,15:45,125.00,over-bite
+1399,Bovingdon,ORTHODONTIST,15:45,16:15,125.00,
+325,Bovingdon,ORTHODONTIST,16:15,17:15,250.00,over-bite
+133,Bovingdon,ORTHODONTIST,17:15,18:00,187.50,
+639,Woodfield,ORAL_SURGEON,07:30,12:30,1615.75,healing is good
+573,Woodfield,ORAL_SURGEON,13:00,14:30,484.73,some risk of bone loss
+1597,Woodfield,ORAL_SURGEON,14:30,15:15,242.36,healing is good
+1056,Woodfield,ORAL_SURGEON,15:15,16:15,323.15,
