@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>CarDealership</title>
+    <meta name="carDealership" content="carDealership" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+      integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+      integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../css/admin_editUser.css" />
+  </head>
+  <body>
+    <header>
+      <nav id="navvy" class="nav">
+        <div class="navComponent">
+          <a href="../home/index.html"
+            ><i id="carIcon" class="fas fa-car fa-3x"></i
+          ></a>
+          <a class="nav-text" href="../home/index.html"><p>Home</p></a>
+          <a class="nav-text" href="../inventory/new.html"
+            ><p>New Inventory</p></a
+          >
+          <a class="nav-text" href="../inventory/used.html"
+            ><p>Used Inventory</p></a
+          >
+          <a class="nav-text" href="../home/specials.html"><p>Specials</p></a>
+          <a class="nav-text" href="../home/contact.html"><p>Contact</p></a>
+          <a class="nav-text" href="../sales/index.html"><p>Sales</p></a>
+          <a class="nav-text" href="index.html"><p>Admin</p></a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <h1 class="title">Edit User</h1>
+      <section id="form-section">
+        <div id="edit-user-form" class="form user-form">
+          <div class="user-input-container">
+            <label for="first-name" class="input-label">Name</label>
+            <input id="first-name" class="text" />
+            <label for="last-name" class="input-label">Last Name</label>
+            <input id="last-name" class="text" />
+          </div>
+          <div class="user-input-container">
+            <label for="email" class="input-label">Email</label>
+            <input id="email" class="text" />
+
+            <label for="role" class="input-label">Role</label>
+            <select id="role">
+              <option value="admin">Admin</option>
+              <option value="sales">Sales</option>
+              <option value="neither">No Role</option>
+            </select>
+          </div>
+          <div class="user-input-container">
+            <label for="password1" class="input-label">Password</label>
+            <input id="password1" class="text" />
+            <label for="password2" class="input-label">Password</label>
+            <input id="password2" class="text" />
+          </div>
+
+          <a href="index.html"
+            ><button
+              type="button"
+              class="submit-button btn btn-secondary"
+              onclick=""
+            >
+              Save
+            </button></a
+          >
+        </div>
+      </section>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+      integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+      integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../js/admin_editUser.js"></script>
+  </body>
+</html>

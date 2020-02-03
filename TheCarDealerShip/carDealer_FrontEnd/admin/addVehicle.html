@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>CarDealership</title>
+    <meta name="carDealership" content="carDealership" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+      integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+      integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../css/admin_addVehicle.css" />
+  </head>
+  <body>
+    <header>
+      <nav id="navvy" class="nav">
+        <div class="navComponent">
+          <a href="../home/index.html"
+            ><i id="carIcon" class="fas fa-car fa-3x"></i
+          ></a>
+          <a class="nav-text"  href="../home/index.html"><p>Home</p></a>
+          <a class="nav-text"  href="../inventory/new.html"><p>New Inventory</p></a>
+          <a class="nav-text"  href="../inventory/used.html"><p>Used Inventory</p></a>
+          <a class="nav-text"  href="../home/specials.html"><p>Specials</p></a>
+          <a class="nav-text"  href="../home/contact.html"><p>Contact</p></a>
+          <a class="nav-text"  href="../sales/index.html"><p>Sales</p></a>
+          <a class="nav-text"  href="index.html"><p>Admin</p></a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <h1 class="title">Add Vehicle</h1>
+      <section>
+        <div class="form vehicle-form">
+          <div class="vehicle-input-container">
+            <div class="label-input-wrap">
+              <label for="make" class="vehicle-input-label">Make</label>
+              <select id="make" onchange="getModelsByMakeId()"> </select>
+            </div>
+
+            <div class="label-input-wrap">
+              <label for="model" class="vehicle-input-label">Model</label>
+              <select id="model"> </select>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="label-input-wrap">
+              <label for="type" class="vehicle-input-label">Type</label>
+              <select id="type">
+                <option value="new">New</option>
+                <option value="used">Used</option>
+              </select>
+            </div>
+
+            <div class="label-input-wrap">
+              <label for="body-style" class="vehicle-input-label"
+                >Body Style</label
+              >
+              <select id="body-style">
+                <option value="suv">SUV</option>
+                <option value="car">Car</option>
+                <option value="van">Van</option>
+                <option value="truck">Truck</option>
+              </select>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="label-input-wrap">
+              <label for="year" class="vehicle-input-label">Year</label>
+              <input type="text" id="year"> </input>
+            </div>
+
+            <div class="label-input-wrap">
+              <label for="transmission" class="vehicle-input-label"
+                >Transmission</label
+              >
+              <select id="transmission">
+                <option value="automatic">Automatic</option>
+                <option value="manual">Manual</option>
+              </select>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="label-input-wrap">
+              <label for="exterior-color" class="vehicle-input-label"
+                >Color</label
+              >
+              <select id="exterior-color">
+                <option value="red">Red</option>
+                <option value="blue">Blue</option>
+                <option value="black">Black</option>
+                <option value="grey">Grey</option>
+              </select>
+            </div>
+
+            <div class="label-input-wrap">
+              <label for="interior-color" class="vehicle-input-label"
+                >Interior Color</label
+              >
+              <select id="interior-color">
+                <option value="red">Red</option>
+                <option value="blue">Blue</option>
+                <option value="black">Black</option>
+                <option value="grey">Grey</option>
+              </select>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="label-input-wrap">
+              <label for="mileage" class="vehicle-input-label">Mileage</label>
+              <input type="text" id="mileage"> </input>
+            </div>
+
+            <div class="label-input-wrap">
+              <label for="vin" class="vehicle-input-label">Vin</label>
+              <input type="text" id="vin"> </input>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="label-input-wrap">
+              <label for="msrp" class="vehicle-input-label">MSRP</label>
+              <input type="text" id="msrp"> </input>
+            </div>
+
+            <div class="label-input-wrap">
+              <label for="sale-price" class="vehicle-input-label"
+                >Sale Price</label
+              >
+              <input type="text" id="sale-price"> </input>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="description-input-wrap">
+              <label for="description" class="vehicle-input-label"
+                >Description</label
+              >
+              <textarea
+                rows="6"
+                id="description"
+                class="vehicle-input-textarea"
+              ></textarea>
+            </div>
+          </div>
+          <div class="vehicle-input-container">
+            <div class="image-input-wrap">
+              <label for="picture" class="vehicle-input-label">Picture</label>
+              <div class="add-image-wrap">
+                <input id="picture" type="file" name="pic" accept="image/*" />
+                
+              </div>
+            </div>
+          </div>
+          <button type="button" class="add-button btn btn-primary" onclick="addVehicle()">
+              Save
+            </button>
+        </div>
+      </section>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+      integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
+      integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+      crossorigin="anonymous"
+    ></script>
+    <script src="../js/admin_addVehicle.js"></script>
+  </body>
+</html>

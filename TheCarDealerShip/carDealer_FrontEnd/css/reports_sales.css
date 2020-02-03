@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+
+#navvy {
+  width: 100%;
+  height: 70px;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+#carIcon {
+  margin: 10px 10px 0 15px;
+}
+
+.navComponent {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.navComponent p {
+  margin-left: 10px;
+  line-height: 70px;
+}
+
+.navComponent a {
+  text-decoration: none;
+  color: black;
+}
+
+.navComponent .nav-text:hover {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+
+#login-btn {
+  margin: 15px 15px 0 0;
+}
+
+/* Standard Headings */
+
+.title {
+  margin-left: 5%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.title-item {
+  margin-left: 5%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.title-item-noMargin {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Report Filter */
+
+.sales-report-filter {
+  width: 870px;
+  margin-left: 5%;
+  border: thin solid black;
+}
+
+.filters {
+  margin-left: 5%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.filters label {
+  margin-right: 15px;
+}
+
+.filters select,
+.filters input {
+  margin-right: 30px;
+}
+
+#user-filter-button {
+  margin-left: 5%;
+  margin-bottom: 20px;
+}
+
+/* Tables */
+
+/* Tables */
+
+table {
+  border: thin solid black;
+  text-align: center;
+}
+
+table td {
+  border-left: thin solid black;
+  border-right: thin solid black;
+}
+
+#table-container {
+  width: 90%;
+  margin: auto;
+}

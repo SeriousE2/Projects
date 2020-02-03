@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 800px;
+}
+
+/* Navbar */
+
+#navvy {
+  width: 100%;
+  height: 70px;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+#carIcon {
+  margin: 10px 10px 0 15px;
+}
+
+.navComponent {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.navComponent p {
+  margin-left: 10px;
+  line-height: 70px;
+}
+
+.navComponent a {
+  text-decoration: none;
+  color: black;
+}
+
+.navComponent .nav-text:hover {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+}
+
+#login-btn {
+  margin: 15px 15px 0 0;
+}
+
+/* Standard Headings */
+
+.title {
+  margin-left: 5%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title-item {
+  margin-left: 5%;
+}
+
+/* Model Form */
+
+.user-input-container {
+  margin-top: 20px;
+  width: 90%;
+  margin: auto;
+  border: thin solid black;
+  height: 70px;
+}
+
+.user-input-container label {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.user-input-container input {
+  border-radius: 7px;
+  width: 250px;
+}
+
+.submit-button {
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 7px;
+}
+
+/* Models Table */
+
+.models {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  border: thin solid black;
+}
